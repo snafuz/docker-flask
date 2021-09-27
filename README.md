@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Dockerized flask with dynamic loading of blueprints to handle routes configured outside the container.
+Dockerized Flask with blueprints' dynamic loading to handle routes configured outside the container.
 Flask run via gunicorn inside the container
 
 ## Build the image
